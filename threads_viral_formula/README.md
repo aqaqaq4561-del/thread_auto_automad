@@ -145,8 +145,16 @@ $$\text{문제} \longrightarrow \text{이유} \longrightarrow \text{해결} \lon
 
 ---
 
-## 7. 워크스페이스 폴더 구성 안내
+## 7. 워크스페이스 폴더 구성 안내 (계정별 원고 분리 운영)
 
-* [01_만능_바이럴_템플릿.md](file:///c:/Users/user/OneDrive/Desktop/스레드%20자동화1019/threads_viral_formula/01_만능_바이럴_템플릿.md) : 빈칸만 채우면 바로 글이 나오는 표준 타래 구조 템플릿 (충격비교형 / 비개발자고백형 / 벼랑끝프롬프트형)
-* [02_실전_타깃별_예제.md](file:///c:/Users/user/OneDrive/Desktop/스레드%20자동화1019/threads_viral_formula/02_실전_타깃별_예제.md) : 타깃 고객 및 페르소나별 실전 예제 17종 (직장인, 주부, 내향인, 은퇴자, 실전 프롬프트 타래 등)
-* [03_순수_정보성_스레드_10선.md](file:///c:/Users/user/OneDrive/Desktop/스레드%20자동화1019/threads_viral_formula/03_순수_정보성_스레드_10선.md) : 강의팔이 느낌 0%의 순수 실무 꿀팁 10종 (UI 디테일, Supabase RLS, API 보안, F12 단축키 등)
+* [01_만능_바이럴_템플릿.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EB%A7%8C%EB%8A%A5_%EB%B0%94%EC%9D%B4%EB%9F%B4_%ED%85%9C%ED%94%8C%EB%A6%BF.md) : 두 계정 공통으로 사용하는 빈칸 채우기용 표준 타래 구조 템플릿 (템플릿 1~6)
+* **`01_오토마드_automad/` (`@automad.ai` 전용 원고함 - 1인 에이전시/직장인/개발·수주 시스템 중심)**
+  * [00_계정_컨셉_및_프로필.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/00_%EA%B3%84%EC%A0%95_%EC%BB%A8%EC%85%89_%EB%B0%8F_%ED%94%84%EB%A1%9C%ED%95%84.md)
+  * [01_유입_및_타깃별_원고.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/01_%EC%9C%A0%EC%9E%85_%EB%B0%8F_%ED%83%80%EA%B9%83%EB%B3%84_%EC%9B%90%EA%B3%A0.md)
+  * [02_리드마그넷_무료자료_유도.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/02_%EB%A6%AC%EB%93%9C%EB%A7%88%EA%B7%B8%EB%84%B7_%EB%AC%B4%EB%A3%8C%EC%9E%90%EB%A3%8C_%EC%9C%A0%EB%8F%84.md)
+  * [03_순수_정보성_실무팁.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/03_%EC%88%9C%EC%88%98_%EC%A0%95%EB%B3%B4%EC%84%B1_%EC%8B%A4%EB%AC%B4%ED%8C%81.md)
+* **`02_바이브마드_vibemad/` (`@vibemad.ai` 전용 원고함 - 주부/경단녀/비전공자/홈페이지 부업 중심)**
+  * [00_계정_컨셉_및_프로필.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/00_%EA%B3%84%EC%A0%95_%EC%BB%A8%EC%85%89_%EB%B0%8F_%ED%94%84%EB%A1%9C%ED%95%84.md)
+  * [01_유입_및_타깃별_원고.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/01_%EC%9C%A0%EC%9E%85_%EB%B0%8F_%ED%83%80%EA%B9%83%EB%B3%84_%EC%9B%90%EA%B3%A0.md)
+  * [02_리드마그넷_무료자료_유도.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/02_%EB%A6%AC%EB%93%9C%EB%A7%88%EA%B7%B8%EB%84%B7_%EB%AC%B4%EB%A3%8C%EC%9E%90%EB%A3%8C_%EC%9C%A0%EB%8F%84.md)
+  * [03_순수_정보성_실무팁.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/03_%EC%88%9C%EC%88%98_%EC%A0%95%EB%B3%B4%EC%84%B1_%EC%8B%A4%EB%AC%B4%ED%8C%81.md)
