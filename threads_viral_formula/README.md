@@ -10,8 +10,8 @@
 * **평소 스레드 글 작성, 분석, 템플릿 적용 시에는 쿠팡파트너스/상품 소싱을 완전히 배제**하며, **IT 외주 비즈니스, 1인 에이전시, 지식 콘텐츠 및 순수 바이럴 퍼널**을 기본 전제로 동작합니다.
 
 ## ⚠️ [필수 원칙 2] 직관적 비즈니스 용어 준수 (비유 및 호칭 금지)
-* ❌ **배제할 표현:** '소상공인', '가게', '손님', '식당 비유' 및 **'사장님', '대표님'** 같은 호칭 전면 배제.
-* ⭕ **필수 권장 용어:** **클라이언트, 의뢰인, 기업, 중소기업, 자영업자, B2B, B2C**.
+* ❌ **배제할 표현:** '소상공인', '가게', '손님', '식당 비유', '치킨게임' 및 **'사장님', '대표님'** 같은 호칭 전면 배제. (누구나 바로 이해할 수 있는 직관적인 표현 사용)
+* ⭕ **필수 권장 용어:** **클라이언트, 의뢰인, 기업, 중소기업, 자영업자, B2B, B2C, 가격경쟁**.
 * 외주 상대방을 지칭할 때는 무조건 **'클라이언트'** 또는 **'의뢰인'**으로 통일합니다.
 
 ## ⚠️ [필수 원칙 3] 100% 인바운드 수주 원칙 (아웃바운드 / DM 제안 금지)
@@ -160,8 +160,14 @@ $$\text{문제} \longrightarrow \text{이유} \longrightarrow \text{해결} \lon
   * [01_유입_및_타깃별_원고.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/01_%EC%9C%A0%EC%9E%85_%EB%B0%8F_%ED%83%80%EA%B9%83%EB%B3%84_%EC%9B%90%EA%B3%A0.md)
   * [02_리드마그넷_무료자료_유도.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/02_%EB%A6%AC%EB%93%9C%EB%A7%88%EA%B7%B8%EB%84%B7_%EB%AC%B4%EB%A3%8C%EC%9E%90%EB%A3%8C_%EC%9C%A0%EB%8F%84.md)
   * [03_순수_정보성_실무팁.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/03_%EC%88%9C%EC%88%98_%EC%A0%95%EB%B3%B4%EC%84%B1_%EC%8B%A4%EB%AC%B4%ED%8C%81.md)
+  * [04_주간_발행_캘린더.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/04_%EC%43%84%EA%B0%84_%EB%B0%94%ED%96%89_%EC%42%AC%EB%A6%B0%EB%8D%94.md)
 * **`02_바이브마드_vibemad/` (`@vibemad.ai` 전용 원고함 - 주부/경단녀/비전공자/홈페이지 부업 중심)**
   * [00_계정_컨셉_및_프로필.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/00_%EA%B3%84%EC%A0%95_%EC%BB%A8%EC%85%89_%EB%B0%8F_%ED%94%84%EB%A1%9C%ED%95%84.md)
   * [01_유입_및_타깃별_원고.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/01_%EC%9C%A0%EC%9E%85_%EB%B0%8F_%ED%83%80%EA%B9%83%EB%B3%84_%EC%9B%90%EA%B3%A0.md)
   * [02_리드마그넷_무료자료_유도.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/02_%EB%A6%AC%EB%93%9C%EB%A7%88%EA%B7%B8%EB%84%B7_%EB%AC%B4%EB%A3%8C%EC%9E%90%EB%A3%8C_%EC%9C%A0%EB%8F%84.md)
   * [03_순수_정보성_실무팁.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/03_%EC%88%9C%EC%88%98_%EC%A0%95%EB%B3%B4%EC%84%B1_%EC%8B%A4%EB%AC%B4%ED%8C%81.md)
+  * [04_주간_발행_캘린더.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/04_%EC%43%84%EA%B0%84_%EB%B0%94%ED%96%89_%EC%42%AC%EB%A6%B0%EB%8D%94.md)
+* **`03_내계정_터진글_모음/` (실제 조회수 폭발·검증된 바이럴 성공 원고 아카이빙 금고)**
+  * [00_터진글_분석_및_기록가이드.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/03_%EB%82%B4%EA%B3%84%EC%A0%95_%ED%84%B0%EC%A7%84%EA%B8%80_%EB%AA%A8%EC%9D%8C/00_%ED%84%B0%EC%A7%84%EA%B8%80_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EA%B8%B0%EB%A1%9D%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+  * [01_오토마드_터진글.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/03_%EB%82%B4%EA%B3%84%EC%A0%95_%ED%84%B0%EC%A7%84%EA%B8%80_%EB%AA%A8%EC%9D%8C/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_%ED%84%B0%EC%A7%84%EA%B8%80.md)
+  * [02_바이브마드_터진글.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/03_%EB%82%B4%EA%B3%84%EC%A0%95_%ED%84%B0%EC%A7%84%EA%B8%80_%EB%AA%A8%EC%9D%8C/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_%ED%84%B0%EC%A7%84%EA%B8%80.md)
