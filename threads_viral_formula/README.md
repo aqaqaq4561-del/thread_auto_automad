@@ -19,6 +19,7 @@
 * ⭕ **실제 비즈니스 구조:** **포트폴리오와 채널(크몽, 블로그, 스레드 등)을 통해 클라이언트가 먼저 찾아와 문의를 남기게 만들고(인바운드)**, 들어온 문의에 대해 주도권을 잡고 질문을 던져 프로토타입과 비교견적서로 미팅에서 계약을 체결하는 시스템만 다룹니다.
 
 ## ⚠️ [필수 원칙 4] 개발 툴 언급 기준 & 팩트 엄수 (임의 창작 및 외주 작업물 공개 금지)
+* ❌ **스레드 본문 텍스트 내 `**` 별표(볼드 마크다운) 전면 금지:** 스레드 모바일 앱에서는 `**`가 볼드로 변환되지 않고 그대로 지저분하게 노출되므로, "저장해두세요", "프로필 확인ㄱㄱ" 등 본문 어디에도 `**`를 쓰지 않고 깔끔한 일반 텍스트로 작성합니다.
 * ❌ **사용하지 않는 툴 언급 전면 금지:** `Supabase`, `Vercel`, `Cursor` 등 실제로 쓰지 않는 도구는 스레드 원고에 절대 넣지 않습니다.
 * ❌ **진부하거나 당연한 기술 팁 배제:** `.env` 파일에 시크릿 키 격리하기 등 요즘 AI 코딩 도구가 알아서 기본 처리해 주는 당연하고 초보적인 팁은 스레드 정보성 글이나 캘린더에 넣지 않습니다. (대신 AI 티 벗기는 디자인 교정, 모바일 터치 최적화, 스팸 방어 등 실질적 가치가 높은 팁만 다룸)
 * ❌ **유료 전자책 노하우(Replit / Neon DB) 스레드 노골적 노출 금지:** 실제 개발은 `Replit(레플릿)`과 내장 `Neon DB`로 진행하지만, 이는 유료 전자책의 핵심 노하우이므로 스레드 공개 글에서는 가급적 툴 이름을 직접 까발리지 않고 **'AI', 'AI 코딩 도구', 'DB'**로 지칭합니다.
@@ -161,13 +162,17 @@ $$\text{문제} \longrightarrow \text{이유} \longrightarrow \text{해결} \lon
   * [01_유입_및_타깃별_원고.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/01_%EC%9C%A0%EC%9E%85_%EB%B0%8F_%ED%83%80%EA%B9%83%EB%B3%84_%EC%9B%90%EA%B3%A0.md)
   * [02_리드마그넷_무료자료_유도.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/02_%EB%A6%AC%EB%93%9C%EB%A7%88%EA%B7%B8%EB%84%B7_%EB%AC%B4%EB%A3%8C%EC%9E%90%EB%A3%8C_%EC%9C%A0%EB%8F%84.md)
   * [03_순수_정보성_실무팁.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/03_%EC%88%9C%EC%88%98_%EC%A0%95%EB%B3%B4%EC%84%B1_%EC%8B%A4%EB%AC%B4%ED%8C%81.md)
-  * [04_주간_발행_캘린더.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/04_%EC%43%84%EA%B0%84_%EB%B0%94%ED%96%89_%EC%42%AC%EB%A6%B0%EB%8D%94.md)
+  * **`04_주간_발행_캘린더/`** (주차별 발행 예약 관리 폴더)
+    * `11월_1주차_예약완료.md` (예약 완료 보관 원고)
+    * `11월_2주차.md` (다음 주 발행 대기 신규 원고)
 * **`02_바이브마드_vibemad/` (`@vibemad.ai` 전용 원고함 - 주부/경단녀/비전공자/홈페이지 부업 중심)**
   * [00_계정_컨셉_및_프로필.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/00_%EA%B3%84%EC%A0%95_%EC%BB%A8%EC%85%89_%EB%B0%8F_%ED%94%84%EB%A1%9C%ED%95%84.md)
   * [01_유입_및_타깃별_원고.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/01_%EC%9C%A0%EC%9E%85_%EB%B0%8F_%ED%83%80%EA%B9%83%EB%B3%84_%EC%9B%90%EA%B3%A0.md)
   * [02_리드마그넷_무료자료_유도.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/02_%EB%A6%AC%EB%93%9C%EB%A7%88%EA%B7%B8%EB%84%B7_%EB%AC%B4%EB%A3%8C%EC%9E%90%EB%A3%8C_%EC%9C%A0%EB%8F%84.md)
   * [03_순수_정보성_실무팁.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/03_%EC%88%9C%EC%88%98_%EC%A0%95%EB%B3%B4%EC%84%B1_%EC%8B%A4%EB%AC%B4%ED%8C%81.md)
-  * [04_주간_발행_캘린더.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/02_%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A7%88%EB%93%9C_vibemad/04_%EC%43%84%EA%B0%84_%EB%B0%94%ED%96%89_%EC%42%AC%EB%A6%B0%EB%8D%94.md)
+  * **`04_주간_발행_캘린더/`** (주차별 발행 예약 관리 폴더)
+    * `11월_1주차_예약완료.md` (예약 완료 보관 원고)
+    * `11월_2주차.md` (다음 주 발행 대기 신규 원고)
 * **`03_내계정_터진글_모음/` (실제 조회수 폭발·검증된 바이럴 성공 원고 아카이빙 금고)**
   * [00_터진글_분석_및_기록가이드.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/03_%EB%82%B4%EA%B3%84%EC%A0%95_%ED%84%B0%EC%A7%84%EA%B8%80_%EB%AA%A8%EC%9D%8C/00_%ED%84%B0%EC%A7%84%EA%B8%80_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EA%B8%B0%EB%A1%9D%EA%B0%80%EC%9D%B4%EB%93%9C.md)
   * [01_오토마드_터진글.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/03_%EB%82%B4%EA%B3%84%EC%A0%95_%ED%84%B0%EC%A7%84%EA%B8%80_%EB%AA%A8%EC%9D%8C/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_%ED%84%B0%EC%A7%84%EA%B8%80.md)
