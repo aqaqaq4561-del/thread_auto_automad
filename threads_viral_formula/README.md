@@ -156,7 +156,8 @@ $$\text{문제} \longrightarrow \text{이유} \longrightarrow \text{해결} \lon
 
 ## 7. 워크스페이스 폴더 구성 안내 (계정별 원고 분리 운영)
 
-* [01_만능_바이럴_템플릿.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EB%A7%8C%EB%8A%A5_%EB%B0%94%EC%9D%B4%EB%9F%B4_%ED%85%9C%ED%94%8C%EB%A6%BF.md) : 두 계정 공통으로 사용하는 빈칸 채우기용 표준 타래 구조 템플릿 (템플릿 1~11)
+* [00_발행완료_원고_및_중복방지_기록.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/00_%EB%B0%94%ED%96%89%EC%99%84%EB%A3%8C_%EC%9B%90%EA%B3%A0_%EB%B0%8F_%EC%A4%91%EB% Bok%EB%B0%A9%EC%A7%80_%EA%B8%B0%EB%A1%9D.md) : 실시간 수시 발행 원고 아카이빙 및 향후 주간 캘린더 소재/문장 중복 영구 방지 블랙리스트
+* [01_만능_바이럴_템플릿.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EB%A7%8C%EB%8A%A5_%EB%B0%94%EC%9D%B4%EB%9F%B4_%ED%85%9C%ED%94%8C%EB%A6%BF.md) : 두 계정 공통으로 사용하는 빈칸 채우기용 표준 타래 구조 템플릿 (템플릿 1~13)
 * **`01_오토마드_automad/` (`@automad.ai` 전용 원고함 - 1인 에이전시/직장인/개발·수주 시스템 중심)**
   * [00_계정_컨셉_및_프로필.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/00_%EA%B3%84%EC%A0%95_%EC%BB%A8%EC%85%89_%EB%B0%8F_%ED%94%84%EB%A1%9C%ED%95%84.md)
   * [01_유입_및_타깃별_원고.md](file:///c:/Users/user/OneDrive/Desktop/%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%9E%90%EB%8F%99%ED%99%941019/threads_viral_formula/01_%EC%98%A4%ED%86%A0%EB%A7%88%EB%93%9C_automad/01_%EC%9C%A0%EC%9E%85_%EB%B0%8F_%ED%83%80%EA%B9%83%EB%B3%84_%EC%9B%90%EA%B3%A0.md)
